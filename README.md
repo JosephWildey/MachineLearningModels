@@ -17,3 +17,6 @@ Final matrix of predictions:
  [102276.66 101004.64]
  [ 58649.38  49490.75]
  [ 98272.03  97483.56]]
+
+# Polynomial Regression
+![image](https://user-images.githubusercontent.com/19524084/179326135-f0ae54b7-42d4-4d13-8b36-e5480eaeba47.png)

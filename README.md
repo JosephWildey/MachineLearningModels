@@ -26,3 +26,7 @@ Final matrix of predictions:
 
 # Decision Tree Regression
 ![image](https://user-images.githubusercontent.com/19524084/179830906-1b1c1272-3344-4d9a-a0e2-b5e32ab9c6d5.png)
+
+# Random Forest Regression
+![image](https://user-images.githubusercontent.com/19524084/179851718-1bebe365-ff08-4220-86a2-fc346a77e5d0.png)
+

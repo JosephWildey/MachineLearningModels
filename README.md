@@ -20,3 +20,6 @@ Final matrix of predictions:
 
 # Polynomial Regression
 ![image](https://user-images.githubusercontent.com/19524084/179326135-f0ae54b7-42d4-4d13-8b36-e5480eaeba47.png)
+
+# Support Vector Regression
+![image](https://user-images.githubusercontent.com/19524084/179830800-1aa4747b-939c-4355-8ef4-d1bb895af564.png)

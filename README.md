@@ -23,3 +23,6 @@ Final matrix of predictions:
 
 # Support Vector Regression
 ![image](https://user-images.githubusercontent.com/19524084/179830800-1aa4747b-939c-4355-8ef4-d1bb895af564.png)
+
+# Decision Tree Regression
+![image](https://user-images.githubusercontent.com/19524084/179830906-1b1c1272-3344-4d9a-a0e2-b5e32ab9c6d5.png)

@@ -16,6 +16,6 @@ Contains all the base classification models I have created
 Contains all of my solutions to datasets I have found
 
 
-References:
+<p align=center>References</p>
 
 [Machine Learning A-Z by Kirill Eremenko, Hadelin de Ponteves, and Ligency Team](https://www.udemy.com/course/machinelearning/learn/lecture/19596438?start=1#overview)

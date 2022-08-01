@@ -12,8 +12,8 @@ Contains all the base regression models I have created
 # Classification
 Contains all the base classification models I have created
 
-# Solutions
-Contains all of my solutions to datasets I have found
+# Regression Solutions
+Contains all of my solutions that implemented a regression algorithm
 
 
 <p align=center>References</p>

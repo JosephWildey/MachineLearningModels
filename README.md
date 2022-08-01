@@ -1,4 +1,4 @@
-**The filepaths are hardcoded, sorry. I should have used the OS module, my bad.**
+**The filepaths are hardcoded, sorry; I should have used the OS module.**
 
 # MachineLearningModels
 Machine Learning Models I have created

@@ -1,5 +1,11 @@
 **The filepaths are hardcoded, sorry; I should have used the OS module.**
 
+Also: Predictions are typically organized as:
+
+[predicted value, true value]
+
+Sorry for not making that more explicit.
+
 # MachineLearningModels
 Machine Learning Models I have created
 

@@ -1,5 +1,7 @@
 **The filepaths are hardcoded, sorry; I should have used the OS module.**
 
+All the code was constructed with help from this course: https://www.udemy.com/course/machinelearning/learn/lecture/19596438?start=1#overview
+
 # MachineLearningModels
 Machine Learning Models I have created
 

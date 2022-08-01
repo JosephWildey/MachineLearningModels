@@ -13,3 +13,4 @@ Contains all the base classification models I have created
 # Solutions
 Contains all of my solutions to datasets I have found
 
+**Filepaths may be broken due to organization

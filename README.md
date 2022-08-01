@@ -1,7 +1,7 @@
 # MachineLearningModels
 Machine Learning Models I have created
 
-# Data Folder
+# Data
 Contains all the datasets used for these models.
 
 # Simple Linear Regression

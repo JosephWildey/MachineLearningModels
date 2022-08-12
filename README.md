@@ -7,7 +7,12 @@ Machine Learning Models I have created
 Contains all the datasets used for these models.
 
 # Regression
-Contains all the base regression models I have created
+Contains the following regression models:
+- Simple Linear Regression
+- Multiple Linear Regression
+- Polynomial Linear Regression
+- Decision Tree Regression
+- Random Forest Regression
 
 # Classification
 Contains all the base classification models I have created

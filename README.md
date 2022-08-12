@@ -7,7 +7,13 @@ Machine Learning Models I have created. Both with the help with the class credit
 Contains all the datasets used for these models.
 
 # Classification
-Contains all the base classification models I have created
+- Logistic Regression Classification
+- K-Nearest Neighbors Classification
+- Support Vector Machine Classification
+- Kernel Support Vector Machine Classification
+- Naive Bayes Classification
+- Decision Tree Classification
+- Random Forest Classification
 
 # Regression
 Contains the following regression models:

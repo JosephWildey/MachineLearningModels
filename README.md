@@ -38,6 +38,6 @@ Contains the following regression models:
 Contains all of my solutions that implemented a regression algorithm
 
 
-<p align=center>References</p>
+# <p align=center>References</p>
 
 [Machine Learning A-Z by Kirill Eremenko, Hadelin de Ponteves, and Ligency Team](https://www.udemy.com/course/machinelearning/learn/lecture/19596438?start=1#overview)

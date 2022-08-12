@@ -12,3 +12,7 @@ This uses a few factors to compute the probability of an outcome occuring. The f
 Basically the same thing as its Regression version, but determining a likelihood instead of predicting a precise value.
 # Random Forest Classifier
 Basically the same thing as its Regression version, but determining a likelihood instead of predicting a precise value.
+
+# <p align=center>References</p>
+
+[Machine Learning A-Z by Kirill Eremenko, Hadelin de Ponteves, and Ligency Team](https://www.udemy.com/course/machinelearning/learn/lecture/19596438?start=1#overview)

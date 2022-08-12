@@ -23,6 +23,8 @@ Solutions utilizing Classification models.
 Contains the following clustering models:
 - K-Nearest Neighbors Clustering
 
+# Clustering Solutions
+
 # Regression
 Contains the following regression models:
 - Simple Linear Regression (Single input to determine single output)

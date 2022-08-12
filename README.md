@@ -11,6 +11,7 @@ Contains the following regression models:
 - Simple Linear Regression (Single input to determine single output)
 - Multiple Linear Regression (Multiple inputs to determine single output)
 - Polynomial Linear Regression (Single or multiple inputs to determine a single output)
+- Support Vector Regression (Single or Multiple inputs to determine a single output)
 - Decision Tree Regression (Multiple inputs to determine a single output)
 - Random Forest Regression (Multiple inputs to determine a single output)
 

@@ -13,4 +13,4 @@ This model works best with multiple features to determine a single output. It is
 This model also works best with multiple features to determine an output. It employs ensemble learning which is the idea of combining models and averaging out the results from those models on a random subset of inputs. It can also be very accurate.
 # Metrics
 ## Adjusted R-Squared Score
-This is the adjusted correlation of coefficient, and the closer it is to 1 the more accurate the model. However, in real-world applications that may be an unrealistic goal. Still, higher tends to be better than lower, and negative values imply the model is broken.
+This is the adjusted correlation of coefficient, and the closer it is to 1 the more accurate the model. However, in real-world applications that may be an unrealistic goal. Regardless higher scores are better than lower scores and negative values imply a broken model.

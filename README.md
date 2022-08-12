@@ -1,4 +1,4 @@
-**The filepaths are hardcoded, sorry; I should have used the OS module.**
+**The filepaths are hardcoded, sorry; I should have used the OS module. I also switch between Windows and Linux a lot, sorry for that too.**
 
 # MachineLearningModels
 Machine Learning Models I have created. Both with the help with the class credited at the bottom, and on my own. The models in the specific folders tend to be skeletons mostly inspired by the course. However, the solutions are my attempts at finding the best model for a given problem. 

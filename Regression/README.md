@@ -14,3 +14,7 @@ This model also works best with multiple features to determine an output. It emp
 # Metrics
 ## Adjusted R-Squared Score
 This is the adjusted correlation of coefficient, and the closer it is to 1 the more accurate the model. However, in real-world applications that may be an unrealistic goal. Regardless higher scores are better than lower scores and negative values imply a broken model.
+
+<p align=center>References</p>
+
+[Machine Learning A-Z by Kirill Eremenko, Hadelin de Ponteves, and Ligency Team](https://www.udemy.com/course/machinelearning/learn/lecture/19596438?start=1#overview)

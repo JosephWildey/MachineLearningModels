@@ -8,16 +8,11 @@ Contains all the datasets used for these models.
 
 # Regression
 Contains the following regression models:
-- Simple Linear Regression
-
--- Uses a single feature to determine an output
-
-- Multiple Linear Regression
-
--- Can use multiple features to determine a single output. Can also return an equation with coefficients and an intercept.
-- Polynomial Linear Regression
-- Decision Tree Regression
-- Random Forest Regression
+- Simple Linear Regression (Single input to determine single output)
+- Multiple Linear Regression (Multiple inputs to determine single output)
+- Polynomial Linear Regression (Single or multiple inputs to determine a single output)
+- Decision Tree Regression (Multiple inputs to determine a single output)
+- Random Forest Regression (Multiple inputs to determine a single output)
 
 # Classification
 Contains all the base classification models I have created

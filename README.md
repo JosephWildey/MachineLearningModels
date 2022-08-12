@@ -1,10 +1,13 @@
 **The filepaths are hardcoded, sorry; I should have used the OS module.**
 
 # MachineLearningModels
-Machine Learning Models I have created
+Machine Learning Models I have created. Both with the help with the class credited at the bottom, and on my own. The models in the specific folders tend to be skeletons mostly inspired by the course. However, the solutions are my attempts at finding the best model for a given problem. 
 
 # Data
 Contains all the datasets used for these models.
+
+# Classification
+Contains all the base classification models I have created
 
 # Regression
 Contains the following regression models:
@@ -14,9 +17,6 @@ Contains the following regression models:
 - Support Vector Regression (Single or Multiple inputs to determine a single output)
 - Decision Tree Regression (Multiple inputs to determine a single output)
 - Random Forest Regression (Multiple inputs to determine a single output)
-
-# Classification
-Contains all the base classification models I have created
 
 # Regression Solutions
 Contains all of my solutions that implemented a regression algorithm

@@ -6,3 +6,9 @@ This model is kind of like using a scatter plot with a threshold to determine wh
 This is basically the same thing as the linear regression version, but now it is predicting the likelihood of an outcome occuring.
 # Kernel Support Vector Machine
 This is similar to Support Vector Machines, but due to its ability to add a third dimension to a dataset it can handle non-linear datasets. A non-linear dataset could be a scatterplot without an obvious pattern.
+# Naive Bayes
+This uses a few factors to compute the probability of an outcome occuring. The factors consider total possible outcomes, total possible samples, and a radius of relevant and irrelevant samples.
+# Decision Tree Classifier
+Basically the same thing as its Regression version, but determining a likelihood instead of predicting a precise value.
+# Random Forest Classifier
+Basically the same thing as its Regression version, but determining a likelihood instead of predicting a precise value.

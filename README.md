@@ -9,8 +9,11 @@ Contains all the datasets used for these models.
 # Regression
 Contains the following regression models:
 - Simple Linear Regression
+
 -- Uses a single feature to determine an output
+
 - Multiple Linear Regression
+
 -- Can use multiple features to determine a single output. Can also return an equation with coefficients and an intercept.
 - Polynomial Linear Regression
 - Decision Tree Regression
